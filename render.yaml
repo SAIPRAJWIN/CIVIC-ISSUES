@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: civic-reporter-backend
+    env: node
+    plan: free
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: node server.js
+    autoDeploy: true
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000 # Render provides $PORT; Node will use process.env.PORT
+      - key: MONGODB_URI
+        sync: false # set in Render dashboard
+      - key: JWT_SECRET
+        generateValue: true
+      - key: JWT_REFRESH_SECRET
+        generateValue: true
+      - key: FRONTEND_URL
+        value: https://your-netlify-site.netlify.app
