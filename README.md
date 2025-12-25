@@ -1,4 +1,4 @@
-# 🚀 Project: JanConnect AI (Civic Engagement Platform)
+# 🚀 Project: Civicsense AI (Civic Engagement Platform)
 
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -34,114 +34,127 @@ A showcase of the application's clean, responsive, and feature-rich user interfa
 
 * **1. Main Landing Page:** The user is introduced to the platform's mission and can easily navigate to the citizen or admin portals.
 
-<img width="1350" height="642" alt="image" src="https://github.com/user-attachments/assets/03450593-3626-4b12-840d-ca4d2b36ff25" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/c9de3ba0-c074-467d-8f24-55d7612e304b" />
+
 
 ---
 
 * **2. Registration:** New users can create a secure account by providing their details through a validated registration form.
 
-<img width="1350" height="643" alt="image" src="https://github.com/user-attachments/assets/bb7cfc46-5752-4c5e-9e66-6cd2244ffa56" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/869b4a7f-d1af-43c1-9513-d0a82bebd82b" />
+
 
 ---
 
 * **3. Login:** Registered users can securely access their personalized portal by entering their credentials.
 
-<img width="1349" height="643" alt="image" src="https://github.com/user-attachments/assets/503606d2-348a-44f1-8de4-9c2c8e2877be" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/45fb1384-796b-4f50-8cfc-02ffc13a5b3d" />
 
 ---
 
 * **4. User Dashboard:** After logging in, the user is greeted with a personalized dashboard summarizing their activity and recent submissions.
 
-<img width="1350" height="642" alt="image" src="https://github.com/user-attachments/assets/7f84f537-826b-4d17-9dea-39a533d5596d" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/d6b833d5-318f-45c0-b6b5-248e7d0b2d8d" />
 
 ---
 
 * **5. Report an Issue:** The user can fill out an intuitive, multi-step form to report a new civic issue, complete with location details and image uploads.
 
-<img width="1348" height="644" alt="image" src="https://github.com/user-attachments/assets/f71697c3-fe50-4543-bd90-525e4202216a" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/e6e5fe91-e090-48f0-9bee-f8df3b11b6f5" />
+
 
 ---
 
 * **6. My Submissions:** The user can view a comprehensive list of all their previously reported issues and see their current status at a glance.
 
-<img width="1348" height="643" alt="image" src="https://github.com/user-attachments/assets/fd4ce4b5-a27a-4cb5-bed2-332b9857c451" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/da5894b3-174a-4f04-990b-6c1e2f5fd9fb" />
 
 ---
 * **7. Check Status:** Anyone can track the progress of a specific issue by entering its unique tracking ID, promoting transparency.
 
-<img width="1350" height="640" alt="image" src="https://github.com/user-attachments/assets/cf8bd9bf-97e1-485a-985f-99717de8f4e4" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/69871ffa-82cc-477d-aaf3-6e4ca63e301a" />
 
 ---
 
 * **8. Viewing the Report:** Upon submission, the user receives a unique ID and can view a detailed, professional report of their submission, which can be printed or saved as a PDF.
 
-<img width="1350" height="639" alt="image" src="https://github.com/user-attachments/assets/0e72047b-c3be-45e4-886f-c219b86cc0b4" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/9a68a220-70da-4104-beac-647b15808d2c" />
+
 
 ---
 
 * **9. Submitting Feedback:** The user can provide valuable feedback and rate their experience with the platform to help improve the service.
 
-<img width="1349" height="640" alt="image" src="https://github.com/user-attachments/assets/3bab6c7d-2357-45c5-a123-27f6687c06a4" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/c5e2c331-d1a4-416f-87e8-e4fb9576cf24" />
 
 ---
 
 * **10. Managing Profile:** Users can view and update their personal information, manage their password, and customize their profile photo.
 
-<img width="1349" height="644" alt="image" src="https://github.com/user-attachments/assets/e67166aa-64af-46ce-a1e4-7d872313cb2f" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/35ec8480-1b76-45f8-beb6-dca3f47b58a6" />
 
 ---
 
 * **11. AI Chatbot:** The user can interact with an intelligent AI assistant to get help, ask questions about city services, or get guidance on reporting an issue.
 
-<img width="1362" height="643" alt="image" src="https://github.com/user-attachments/assets/9bcc579c-7837-4600-b14d-5856148a7f44" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/58f4483b-4970-4914-b4f4-c1d6cb192968" />
+
 
 ---
 ### **Administrator's Journey**
 
 * **1. Admin Login:** Administrators securely access their dedicated management portal through a separate login page.
-<img width="1349" height="645" alt="image" src="https://github.com/user-attachments/assets/7f570d27-08ca-42bf-b9cf-62e1601a2dd2" />
+<img width="1848" height="1001" alt="image" src="https://github.com/user-attachments/assets/51240108-c220-4fcd-b281-95d05b63c8d4" />
+
 
 ---
 
 * **2. Admin Dashboard:** The admin is presented with a high-level overview of all platform activity, including key metrics and real-time analytics.
 
-<img width="1347" height="643" alt="image" src="https://github.com/user-attachments/assets/62bd99cf-ab9a-4b14-86f2-6e37c8423f83" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/5cc4c88d-258d-479a-861a-2e5a88e82d4f" />
+
 
 ---
 
 * **3. Managing Issues:** All user-submitted issues are displayed in a central location, where the admin can view details and update their status (e.g., from 'Submitted' to 'In Progress').
 
-<img width="1351" height="642" alt="image" src="https://github.com/user-attachments/assets/cb063541-b175-41cd-b45c-c8c862fe343b" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/217f37cd-37be-4d53-9393-97cd15c8229c" />
+
 
 ---
 
 * **4. Managing Users:** The admin can view, search, filter, suspend, or delete user accounts through a comprehensive management interface.
 
-<img width="1348" height="638" alt="image" src="https://github.com/user-attachments/assets/1393bf2d-314e-4177-9de9-1bbf970b9290" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/ed1c431d-3c8f-49cb-be63-6483f6acf38b" />
+
 
 ---
 
 * **5. Viewing User Feedbacks:** The admin can review all feedback and ratings submitted by users to gauge satisfaction and identify areas for improvement.
 
-<img width="1349" height="638" alt="image" src="https://github.com/user-attachments/assets/8ed94198-adcc-4189-8b0a-fcff8c094d9e" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/63e87912-e7f5-4974-8347-070745585c73" />
+
 
 ---
 
 * **6. Viewing Analytics:** The admin can dive deep into platform-wide data with advanced analytics, charts, and trends on user engagement and issue resolution.
 
-<img width="1351" height="642" alt="image" src="https://github.com/user-attachments/assets/c1bb93c2-a53a-4ae5-913e-4b5369214f1e" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/b95f6a83-9e5c-44e6-9b5b-4d0e82d5fe57" />
+
 
 ---
 
 * **7. Managing "About Us" Content:** The admin can dynamically update the content of the public-facing "About Us" page, including team member profiles and guide information.
 
-<img width="1351" height="642" alt="image" src="https://github.com/user-attachments/assets/b5e6a74e-3712-4934-85cd-573c940cd65a" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/68fb8447-eb81-49de-814d-d9d0115408f1" />
+
 
 ---
 
 * **8. Managing Admin Profile:** Administrators can manage their own account details, including their username and password.
 
-<img width="1340" height="630" alt="image" src="https://github.com/user-attachments/assets/54ff0ac0-6416-4949-9187-82379c9a1ae8" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/74fe2921-2f67-4c98-a433-e28a1f08af43" />
+
 
 ---
 ### ✨ **Features in Detail**
@@ -152,7 +165,7 @@ The platform is divided into two main portals, each with a suite of powerful fea
 * **Intelligent Issue Reporting**: An intuitive, multi-step form for users to report civic issues, complete with image uploads for evidence.
 * **Real-Time Status Tracking**: A dedicated page for users to check the live status of their reported issues using a unique tracking ID.
 * **Personalized Dashboard**: A user-specific dashboard visualizing personal submission statistics and trends using dynamic charts.
-* **AI Chatbot ("JanConnect AI Assistant")**: An integrated assistant powered by Google Gemini to guide users, answer questions about city services, and help with the reporting process.
+* **AI Chatbot ("Civicsense AI Assistant")**: An integrated assistant powered by Google Gemini to guide users, answer questions about city services, and help with the reporting process.
 * **Feedback System**: A feature for users to provide ratings and detailed feedback on their experience with the platform.
 * **Secure Profile Management**: A secure area for users to manage their personal details and profile information, including image cropping for avatars.
 
@@ -189,8 +202,9 @@ Follow these instructions to get a local copy of the project up and running for 
 #### **Installation & Setup**
 1.  **Clone the repository:**
    ```sh
-git clone https://github.com/PantalaAnusha93/JanConnectAI.git
-cd JanConnectAI
+git clone https://github.com/Rohith1202/Civicsense-AI-Smart-Reporting-and-PrioritIzation-of-Civic-Issues-using-AI
+.git
+cd Civicsense-AI-Smart-Reporting-and-PrioritIzation-of-Civic-Issues-using-AI
  ```
    
 
@@ -212,9 +226,9 @@ cd JanConnectAI
 
 4.  **Set up the MySQL Database:**
     * Log in to your MySQL server.
-    * Create a new database for the project. The application is configured to use the name `janconnect_ai`.
+    * Create a new database for the project. The application is configured to use the name `civicsense_ai`.
         ```sql
-        CREATE DATABASE janconnect_ai;
+        CREATE DATABASE civicsense_ai;
         ```
 
 5.  **Configure Database Connection:**
@@ -264,15 +278,15 @@ The project follows a modular structure that separates concerns for maintainabil
 ---
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-Hi, I’m **Anusha Pantala** — a passionate and driven **final-year B.Tech student** in **Computer Science and Engineering** with a specialization in **Data Science**.
+Hi, I’m **Rohith Boppana** — a passionate and driven **final-year B.Tech student** in **Computer Science and Engineering** with a specialization in **Artificial Intelligence & Machine Learning**.
 
 I'm deeply interested in building real-world tech solutions that combine data, intelligence, and intuitive design. My academic journey and hands-on projects reflect a strong foundation in both theory and practical application.
 
 ### 👇 My Core Interests
-- 🔍 Data Science & Analytics  
 - 🤖 Artificial Intelligence & Machine Learning  
+- 🔍 Data Science & Analytics   
 - 📊 BI Dashboards & Predictive Modeling  
 - 💡 Problem-Solving with Scalable Technologies
 
@@ -284,13 +298,14 @@ I enjoy translating business needs and data insights into impactful software sol
 
 📫 **LinkedIn**  
 Let’s connect and grow professionally:  
-[linkedin.com/in/pantala-anusha](https://www.linkedin.com/in/pantala-anusha/)
+[linkedin.com/in/rohith-boppana-39ab57279](https://www.linkedin.com/in/rohith-boppana-39ab57279/)
 
 🌐 **Portfolio**  
 Explore my latest work, skills, and projects here:  
-[anusha-pantala.vercel.app](https://anusha-pantala.vercel.app)
+[rohith-boppana.vercel.app](https://rohith-boppana.vercel.app)
 
 ---
+
 
 > 💡 _“Final-year student, forever learner — building the future, one project at a time.”_
 
