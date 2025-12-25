@@ -91,7 +91,8 @@ A showcase of the application's clean, responsive, and feature-rich user interfa
 
 * **10. Managing Profile:** Users can view and update their personal information, manage their password, and customize their profile photo.
 
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/35ec8480-1b76-45f8-beb6-dca3f47b58a6" />
+<img width="1879" height="1025" alt="image" src="https://github.com/user-attachments/assets/7494381f-a05e-4c4e-991c-73c960ec487b" />
+
 
 ---
 
@@ -104,7 +105,8 @@ A showcase of the application's clean, responsive, and feature-rich user interfa
 ### **Administrator's Journey**
 
 * **1. Admin Login:** Administrators securely access their dedicated management portal through a separate login page.
-<img width="1848" height="1001" alt="image" src="https://github.com/user-attachments/assets/51240108-c220-4fcd-b281-95d05b63c8d4" />
+<img width="1851" height="1002" alt="image" src="https://github.com/user-attachments/assets/4c095d18-97e1-465f-a706-eed621c153fc" />
+
 
 
 ---
