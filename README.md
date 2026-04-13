@@ -280,21 +280,6 @@ The project follows a modular structure that separates concerns for maintainabil
 ---
 ---
 
-## 👨‍💻 About Me
-
-Hi, I’m **Rohith Boppana** — a passionate and driven **final-year B.Tech student** in **Computer Science and Engineering** with a specialization in **Artificial Intelligence & Machine Learning**.
-
-I'm deeply interested in building real-world tech solutions that combine data, intelligence, and intuitive design. My academic journey and hands-on projects reflect a strong foundation in both theory and practical application.
-
-### 👇 My Core Interests
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🔍 Data Science & Analytics   
-- 📊 BI Dashboards & Predictive Modeling  
-- 💡 Problem-Solving with Scalable Technologies
-
-I enjoy translating business needs and data insights into impactful software solutions that solve real problems and enhance user experiences.
-
----
 
 ## 🔗 Let’s Connect
 
