@@ -285,11 +285,8 @@ The project follows a modular structure that separates concerns for maintainabil
 
 📫 **LinkedIn**  
 Let’s connect and grow professionally:  
-[linkedin.com/in/rohith-boppana-39ab57279](https://www.linkedin.com/in/rohith-boppana-39ab57279/)
+[linkedin.com/in/anisetty-sai-prajwin-536742306/](https://www.linkedin.com/in/anisetty-sai-prajwin-536742306/)
 
-🌐 **Portfolio**  
-Explore my latest work, skills, and projects here:  
-[rohith-boppana.vercel.app](https://rohith-boppana.vercel.app)
 
 ---
 
